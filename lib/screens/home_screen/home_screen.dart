@@ -18,6 +18,19 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       backgroundColor: kBackgroundColor,
       appBar: AppBar(
+        title: Center(
+          child: Container(
+            child: Text(
+              'Café',
+              textAlign: TextAlign.center,
+              style: TextStyle(
+                fontSize: 30.0,
+                fontWeight: FontWeight.bold,
+                color: Colors.black54,
+              ),
+            ),
+          ),
+        ),
         elevation: 0,
         backgroundColor: kBackgroundColor,
         leading: IconButton(
