@@ -1,6 +1,13 @@
 # Café
 # A Coffee shop UI built using Flutter.
 
+## Demo:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65482596/171813498-5028a418-70b6-48f8-8041-73c5c6cd8783.gif" width="800" />
+</p>
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
